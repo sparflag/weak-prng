@@ -1,0 +1,7 @@
+slug: weak-prng
+title: Predictable PRNG
+category: cryptography
+difficulty: medium
+points: 300
+codec: xorb64
+repo_url: https://github.com/sparflag/weak-prng
